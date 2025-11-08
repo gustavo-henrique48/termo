@@ -22,9 +22,7 @@ HTML5 — estrutura do conteúdo
 
 CSS3 — estilização e responsividade
 
-JavaScript (ES6) — lógica do jogo e interação com o usuário
-
-(adicione aqui se usaram frameworks como React, Tailwind, Bootstrap etc.)
+JavaScript — lógica do jogo e interação com o usuário
 
 🎯 Objetivos do projeto
 
@@ -40,7 +38,10 @@ Entender como estruturar e versionar um projeto no GitHub.
 
 Projeto desenvolvido por estudantes da FCT UNESP – Presidente Prudente:
 
-(adicione aqui os nomes dos integrantes e, se quiser, seus RAs)
+Gustavo Henrique dos Santos Silva
+Vinicyus de Souza Oliveira Santos
+João Paulo Freitas Campos
+Iandé Souza Toaliar
 
 🧩 Como jogar
 
