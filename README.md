@@ -39,9 +39,13 @@ Entender como estruturar e versionar um projeto no GitHub.
 Projeto desenvolvido por estudantes da FCT UNESP – Presidente Prudente:
 
 Gustavo Henrique dos Santos Silva
+
 Vinicyus de Souza Oliveira Santos
+
 João Paulo Freitas Campos
+
 Iandé Souza Toaliar
+
 
 🧩 Como jogar
 
